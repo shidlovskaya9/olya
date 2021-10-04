@@ -1,0 +1,77 @@
+body {
+	   background-image: url("фон.jpg");
+       font-family: Arial, Sans-Serif; /* Тип шрифта */
+       font-size: 20px; /* Размер текста в пикселях */
+	   text-align: center;
+     }
+.main_title {
+	font-size: 80px;
+	color: #fff;
+	text-align: center;
+	margin: 40px auto;
+}
+.ph2{
+	text-align: center;
+}
+.video{
+	text-align: center;
+}
+.text1 {
+	width: 45%;
+	text-align: center;
+	background-color: rgba(117, 190, 218, 0.5);
+	box-shadow: -10px 0 0 rgba(117, 190, 218, 0.5), 10px 0 0 rgba(117, 190, 218, 0.5);
+	color: #FFFF;
+	font-size: 25px;
+}
+.text2 {
+	text-align:center;
+	background-color: rgba(117, 190, 218, 1.0);
+	box-shadow: -10px 0 0 rgba(117, 190, 218, 1.0), 10px 0 0 rgba(117, 190, 218, 1.0);
+	color: #FFFF;
+	font-size: 25px;
+}
+.text3 {
+	text-align: center;
+	background-color: rgba(117, 190, 218, 0.5);
+	box-shadow: -10px 0 0 rgba(117, 190, 218, 0.5), 10px 0 0 rgba(117, 190, 218, 0.5);
+	color: #FFFF;
+	font-size: 20px;
+}
+.text4 {
+	text-align:center;
+	color: #FFFF;
+	font-size: 25px;
+}
+.like {
+  margin: 0 auto; 
+  float: left;
+  width: 30%;
+  margin-left: 20%;
+  background-color: rgba(117, 190, 218, 0.5);
+	box-shadow: -10px 0 0 rgba(117, 190, 218, 0.5), 10px 0 0 rgba(117, 190, 218, 0.5);
+	color: #FFFF;
+	font-size: 20px;
+}
+.nelike {
+  float: right;
+  width: 30%;
+  margin-right: 20%;
+ background-color: rgba(117, 190, 218, 0.5);
+	box-shadow: -10px 0 0 rgba(117, 190, 218, 0.5), 10px 0 0 rgba(117, 190, 218, 0.5);
+	color: #FFFF;
+	font-size: 20px;
+}
+.name {
+	margin-left: 40%;
+	margin-right: 40%;
+	background-color: rgba(117, 190, 218, 0.5);
+	box-shadow: -10px 0 0 rgba(117, 190, 218, 0.5), 10px 0 0 rgba(117, 190, 218, 0.5);
+	color: #FFFF;
+	font-size: 20px;
+	
+}
+.photo_spiski {
+	text-align: center;
+}
+
